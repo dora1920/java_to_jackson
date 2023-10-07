@@ -20,6 +20,7 @@ public class Converter {
 		for (Student student2 : student) {
 			System.out.println(student2);
 		}
+		System.out.println(student);
 		
 	}
 	public static void java_to_json() throws Exception {
