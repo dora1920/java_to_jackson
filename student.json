@@ -1,0 +1,12 @@
+[
+	{
+		"studentId": 101,
+		"studentName": "dorababu",
+		"studentRank": 10
+	},
+	{
+		"studentId": 102,
+		"studentName": "veerababu",
+		"studentRank": 20
+	}
+]
